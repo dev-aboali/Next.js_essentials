@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.btn-light {
+  padding: 8px 25px;
+  
+  
+}
+.btn-light:hover {
+  background: #ddd;
+  border-radius: 5px;
+  color: #fff;
+}
